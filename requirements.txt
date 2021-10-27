@@ -1,0 +1,7 @@
+fastapi==0.70.0
+pillow==8.4.0
+tensorflow==2.6.0
+uvicorn==0.15.0
+
+# TODO split out dev dependencies
+pytest==6.2.5
